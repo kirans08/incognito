@@ -1,0 +1,7 @@
+<?php if (!defined('BASEPATH')) exit('No direct script access allowed');
+
+
+$config['appId']   = 'FB_APPID';
+$config['secret']  = 'FB_APPSECRET';
+
+?>
