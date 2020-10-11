@@ -1,8 +1,8 @@
-#INCOGNITO
+# INCOGNITO
 
 Online Treasure Hunt with Facebook Integration
 
-##Important
+## Important
 
 - Place UserID of SuperAdmin in application/config/decepto.php
 - Place AppID and AppSecret in application/config/facebook.php
@@ -11,14 +11,14 @@ Online Treasure Hunt with Facebook Integration
 - Manually set the status as admin for first time
 
 
-##User Side
+## User Side
 
 - Facebook Login.
 - Questions as Images.
 - Special Clues can be placed in HTML, Cookies, Page Title and Text Box.
 - Support for story mode, a part of the story is enabled on completion of a level.
 
-##Admin Side
+## Admin Side
 
 - Monitoring of all the cracked, active and inactive levels.
 - Monitoring of answer logs for a single user and for a whole level.
